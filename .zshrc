@@ -109,6 +109,6 @@ then
     ln -s $HOME/bin $HOME/.gem/ruby/
 fi
 
-export EDITOR="nano"
+export EDITOR="micro"
 
 neofetch
